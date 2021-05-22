@@ -30,6 +30,8 @@ It is a one stop shop for all the academic resources such as the time tables, up
 - Advanced filter with multiple criterias to display Textbooks, Test papers and other resources.
 - View internship and placement stories of previous batches.
 
+#### [Github Repo Link](https://github.com/akshayb80/CollegeSpace)
+
 ## :robot: Built With
 
 #### Tools & Technologies used in this project
