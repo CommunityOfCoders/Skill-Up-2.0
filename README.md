@@ -58,8 +58,8 @@ Our project tries to create to a platform for conducting the traditional book sw
 
 ## Screenshots
 
-![Home Page](https://drive.google.com/file/d/1Qjg7Ad7FGRhXqY7clnD5mIMnnPI9luw1/view?usp=sharing)
+![Home Page](https://drive.google.com/uc?export=view&id=1Qjg7Ad7FGRhXqY7clnD5mIMnnPI9luw1)
 
-![Books Page](https://drive.google.com/file/d/1A4CSHhVMaojgCTX5GimqvNiVWIwStF9J/view?usp=sharing)
+![Books Page](https://drive.google.com/uc?export=view&id=1A4CSHhVMaojgCTX5GimqvNiVWIwStF9J)
 
-![Map Component](https://drive.google.com/file/d/1u3CSdVaCQZsUklUiiUNzj5NVeWMf301r/view?usp=sharing)
+![Map Component](https://drive.google.com/uc?export=view&id=1u3CSdVaCQZsUklUiiUNzj5NVeWMf301r)
