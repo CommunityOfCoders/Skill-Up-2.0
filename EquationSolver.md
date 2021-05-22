@@ -18,14 +18,22 @@ Equation solver enables users to solve handwritten equations. The scanned image 
 * Python
 * OpenCV
 
-## Github link:
+## Architecture
+
+#### Layer 1 - Zero Padding | Conv | Batch Normalization | Zero Padding | Conv | Batch Normalisation | Max Pooling
+
+#### Layer 2 - Zero Padding | Conv | Batch Normalization | Zero Padding | Conv | Batch Normalisation | Max Pooling
+
+#### Layer 3 - Zero Padding | Conv | Batch Normalization | Zero Padding | Conv | Batch Normalisation | Max Pooling
+
+#### Layer 4 - Batch Normalization | Flatten | Dense | Dense | Batch Normalization | Dense
+
+## Github link
 
 https://github.com/sidhya3112/Equation-Solver-Using-CNN
 
-## Future Scope:
+## Future Scope
 For now we are running and testing on local machine. Our future goals are:
  * To improve the accuracy of prediction of our ML model.
  * To deploy our project in form of a web-app.
-
-
 
