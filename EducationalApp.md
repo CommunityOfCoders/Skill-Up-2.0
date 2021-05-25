@@ -77,4 +77,4 @@ Our mentor, Shubhankar was extremely helpful whenever we asked him for help, all
 We can add chapter-wise tests and add graphs for analysing the student's performance. More resources can be added for different chapters. There can also be a QnA section for students to ask their doubts and get them answered by peers and teachers.
 
 ## Screenshots
-* Drive link: [Drive link here](https://drive.google.com/drive/folders/18MaXeHUbJtdvqakFca7GwCKfYTY0sHmc?usp=sharing)
+* Screenshots: [Screenshots](https://github.com/PatilAmartyaJ/educational_app#screenshots)
