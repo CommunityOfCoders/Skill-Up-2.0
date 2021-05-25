@@ -29,8 +29,8 @@ There should be 1 submission per team
 5. Add and commit your file
 
 ```bash
-  $ git add . 
-  
+  $ git add .
+
   $ git commit -m "Added submission for <project-name>"
 ```
 
