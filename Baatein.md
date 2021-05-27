@@ -104,8 +104,5 @@ The users often get important links. Everyone cannot read links to get an idea o
 * Abhay:
 > “Talent wins games, but teamwork and intelligence win championships”. I had great fun working with the team and learned a lot of new things from them. As a team leader, I got to know how decision making can be made effective by discussions. I got to learn React JS which was completely new to me. I continued it till I got comfortable with the MERN stack. Integrating both web and app versions was tricky but we managed. I would like to thank my team for such wonderful work!
 
-<<<<<<< HEAD
+
 > Special thanks to our mentor Parth for guiding us to a right path and helping us whenever needed!
-=======
-> Special thanks to our mentor Parth for guiding us to a right path and helping us whenever needed!
->>>>>>> 68d66dbc9def8171d4cc3eb61f2dc9f9d05f8e3c
